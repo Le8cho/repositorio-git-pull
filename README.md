@@ -1,2 +1,2 @@
-# repositorio-git-pull
+# Repositorio para practicar gitpull
 LeonardoChachumito
